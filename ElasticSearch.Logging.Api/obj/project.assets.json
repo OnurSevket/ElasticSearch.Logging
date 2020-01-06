@@ -6364,11 +6364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\onurs\\source\\repos\\ElasticSearch.Logging\\ElasticSearch.Logging.Api\\ElasticSearch.Logging.Api.csproj",
+      "projectUniqueName": "C:\\Users\\onurs\\Desktop\\OpenSource\\OnurSevket\\ElasticSearch.Logging\\ElasticSearch.Logging.Api\\ElasticSearch.Logging.Api.csproj",
       "projectName": "ElasticSearch.Logging.Api",
-      "projectPath": "C:\\Users\\onurs\\source\\repos\\ElasticSearch.Logging\\ElasticSearch.Logging.Api\\ElasticSearch.Logging.Api.csproj",
+      "projectPath": "C:\\Users\\onurs\\Desktop\\OpenSource\\OnurSevket\\ElasticSearch.Logging\\ElasticSearch.Logging.Api\\ElasticSearch.Logging.Api.csproj",
       "packagesPath": "C:\\Users\\onurs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\onurs\\source\\repos\\ElasticSearch.Logging\\ElasticSearch.Logging.Api\\obj\\",
+      "outputPath": "C:\\Users\\onurs\\Desktop\\OpenSource\\OnurSevket\\ElasticSearch.Logging\\ElasticSearch.Logging.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
